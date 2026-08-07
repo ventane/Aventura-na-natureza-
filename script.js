@@ -93,3 +93,5 @@ avanca.forEach(button => {
     <script src="script.js"></script>
 </body>
 </html>
+let botao = document.querySelector('.meu-botao');
+let paragrafos = document.querySelectorAll('p');
